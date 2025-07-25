@@ -8,9 +8,9 @@
             size="40"
             class="mr-2"
           >
-            <span class="white--text text-h6">GIT</span>
+            <span class="white--text text-h6">OBDTMS</span>
           </v-avatar>
-          <span class="text-body-2 primary--text font-weight-medium text-uppercase">Glan Institute of Technology</span>
+          <span class="text-body-2 primary--text font-weight-medium text-uppercase">Online-Based Document Tracking System</span>
         </router-link>
         <v-spacer></v-spacer>
 
