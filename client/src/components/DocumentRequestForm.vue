@@ -15,7 +15,7 @@
               <v-sheet class="mb-6" rounded>
                 <div class="section-title mb-4">
                   <v-icon color="primary" class="mr-2">mdi-account</v-icon>
-                  <span class="text-h6">Student Information</span>
+                  <span class="text-h6">User Information</span>
                 </div>
                 
                 <v-row>
@@ -32,8 +32,8 @@
                   <v-col cols="12" md="6">
                     <v-text-field
                       v-model="formData.studentId"
-                      label="Student ID"
-                      :rules="[v => !!v || 'Student ID is required']"
+                      label="User ID"
+                      :rules="[v => !!v || 'User ID is required']"
                       filled
                       dense
                       required

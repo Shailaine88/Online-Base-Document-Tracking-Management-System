@@ -12,7 +12,7 @@
       <v-spacer></v-spacer>
       <v-btn text to="/">Home</v-btn>
       <v-btn text to="/track">Track Document</v-btn>
-      <v-btn text to="/request">Request Document</v-btn>
+      <v-btn text to="/request">Create Document</v-btn>
     </v-container>
   </v-app-bar>
 </template>
