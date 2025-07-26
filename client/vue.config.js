@@ -6,7 +6,7 @@ module.exports = defineConfig({
   ],
   chainWebpack: config => {
     config.plugin('html').tap(args => {
-      args[0].title = "E-DTS";
+      args[0].title = "OBDTMS";
       return args;
     });
   },
