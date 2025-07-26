@@ -62,7 +62,7 @@
             <v-icon class="white--text">mdi-home-circle</v-icon>
           </v-list-item-icon>
           <v-list-item-content v-if="!mini">
-            <v-list-item-title class="white--text">GIT E-DTS</v-list-item-title>
+            <v-list-item-title class="white--text">OBDTMS</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
 

@@ -17,7 +17,7 @@
         <div class="d-none d-md-flex">
           <v-btn text to="/">Home</v-btn>
           <v-btn text to="/track">Track Document</v-btn>
-          <v-btn text to="/request">Request Document</v-btn>
+          <v-btn text to="/request">Create Document</v-btn>
           <v-btn text to="/login" color="primary">Login</v-btn>
         </div>
 
@@ -53,7 +53,7 @@
           <v-list-item-icon>
             <v-icon>mdi-file-plus-outline</v-icon>
           </v-list-item-icon>
-          <v-list-item-title>Request Document</v-list-item-title>
+          <v-list-item-title>Create Document</v-list-item-title>
         </v-list-item>
 
         <v-list-item to="/login" link>
